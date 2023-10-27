@@ -5,8 +5,8 @@ Pazarama Android Bootcamp login sayfası ödevidir. Doğru veya yanlış bilgile
 
 <p align="center" >
 
-<img src="success.png" width="200" height="400" >
+<img src="correct_username.png" width="200" height="400" >
 
-<img src="fail.png" width="200" height="400" >
+<img src="wrong_username.png" width="200" height="400" >
 
 </p>
